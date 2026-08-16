@@ -1,8 +1,8 @@
-# 🌡️ UrbanHeat AI
+
 
 ### Smarter Urban Planning for Cooler Cities
 
-**UrbanHeat AI** is an intelligent urban heat analysis and planning platform designed to help planners, builders, and decision-makers identify, understand, and reduce the **Urban Heat Island (UHI) effect**.
+**Therma** is an intelligent urban heat analysis and planning platform designed to help planners, builders, and decision-makers identify, understand, and reduce the **Urban Heat Island (UHI) effect**.
 
 The platform combines **geospatial heat visualization, heat-focused planning regulations, and intervention simulations** to support more sustainable and climate-resilient urban development.
 
@@ -26,7 +26,7 @@ This can lead to higher local temperatures, increased cooling demand, greater en
 
 ## 💡 Our Solution
 
-UrbanHeat AI provides a single platform where users can:
+Therma provides a single platform where users can:
 
 1. **Visualize heat intensity across an area**
 2. **Identify high-risk heat zones**
@@ -221,8 +221,7 @@ A final summary shows the potential environmental and energy-related impact.
 * Python-based Analysis Services
 * Database for spatial and planning data
 
-> The current version uses **simulated/demo data** for hackathon demonstration purposes where live data integration is not available.
-
+> The current version uses **simulated/demo data** .
 ---
 
 # 📂 Project Structure
@@ -275,7 +274,7 @@ UrbanHeat-AI/
 
 # 🚀 Future Scope
 
-UrbanHeat AI can be expanded with:
+Therma can be expanded with:
 
 * 🤖 AI-based temperature prediction
 * 🛰️ Real satellite and remote-sensing data integration
@@ -289,9 +288,9 @@ UrbanHeat AI can be expanded with:
 
 ---
 
-# 🌍 Why UrbanHeat AI?
+# 🌍 Why Therma?
 
-UrbanHeat AI shifts the focus from simply **observing urban heat** to **making better planning decisions before the problem gets worse**.
+Therma shifts the focus from simply **observing urban heat** to **making better planning decisions before the problem gets worse**.
 
 By combining:
 
@@ -303,14 +302,14 @@ the platform provides a practical approach towards building **cooler, more susta
 
 ## 👥 Team
 
-**Team Name:** `[Your Team Name]`
+**Team Name:** `Vars_Key`
 
 | Name         | Role                    |
 | ------------ | ----------------------- |
-| `[Member 1]` | Frontend / UI           |
-| `[Member 2]` | Data & Analysis         |
-| `[Member 3]` | Development             |
-| `[Member 4]` | Research & Presentation |
+| `Aviral Jain` | Frontend / UI           |
+| `Raunak Kwatra` | Data & Analysis         |
+| `Vatsal Trivedi` | Development             |
+| `Shubh Sarna` | Research & Presentation |
 
 ---
 
